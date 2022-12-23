@@ -7,10 +7,10 @@
             "program": "parallax.exe",
             "args": [],
             "stopAtEntry": false,
-            "cwd": "${workspaceFolder}/bin",
+            "cwd": "${workspaceFolder}/bin/debug",
             "environment": [],
             "console": "externalTerminal",
-            "preLaunchTask": "C/C++: cl.exe build active file"
+            "preLaunchTask": "NMAKE: build debug"
         }
     ],
     "version": "2.0.0"

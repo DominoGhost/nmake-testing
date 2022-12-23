@@ -1,7 +1,8 @@
 #include <iostream>
 
 int main() {
-    std::cout << "NMAKE testing" << std::endl;
-    
+    int x{ 2 };
+    std::cout << "NMAKE testing" << x << std::endl;
+
     return 0;
 }
